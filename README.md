@@ -63,19 +63,14 @@ Busco desenvolver minhas habilidades na área de tecnologia através de projetos
 
 # 📂 Portfólio de Projetos
 
-## 🗃️ Banco de Dados
-
-| Projeto | Descrição | Link |
-|---|---|---|
-| Sistema de Gestão Escolar | Modelagem ER e Scripts SQL para uma instituição de ensino. | Em desenvolvimento |
 
 ---
 
 ## 🤖 Inteligência Artificial
 
-| Projeto | Descrição | Link |
-|---|---|---|
-| Predição de Churn | Algoritmo de classificação para prever saída de clientes. | Em desenvolvimento |
+| BATALHA DE MODELOS & ENGENHARIA DE PROMPT (XML) | Modelagem sobre a precisão de IA |https://drive.google.com/file/d/1L2iCMzQ6jfmfR2cJl_NWSDo5aLD5e7uK/view?usp=drive_link |
+|---|---|---
+|
 
 ---
 
