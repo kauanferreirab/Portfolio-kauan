@@ -1,4 +1,4 @@
-# Portfolio-kaua# 👋 Kauan Ferreira Balan
+# Portfolio-Kauan 👋 Kauan Ferreira Balan
 > Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
